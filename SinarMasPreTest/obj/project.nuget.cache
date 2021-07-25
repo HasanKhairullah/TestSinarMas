@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OMmkEnlEfUyfZ7kScFb2uD672J5r+2yIwxMCXCv6wvbl1I8ENx3nv9q3sqTrrrAgBLkL6pgRYQCkbhqAN41bgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\source\\repos\\SinarMasPreTest\\SinarMasPreTest\\SinarMasPreTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
